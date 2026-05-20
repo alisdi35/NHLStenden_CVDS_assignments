@@ -1,0 +1,1 @@
+# NHLStenden_CVDS_assignments
