@@ -1,1 +1,2 @@
 # NHLStenden_CVDS_assignments
+In this repository, I have included 4 Jupyter notebooks as debugging assignment solutions named NHLStenden_CVDS_Exercise1 to 4. In each notebook, I have added an "Answer" cell, explaining the bugs of the code as well as the solution to each bug. In addition, I have included two other Jupyter notebooks as my sample codes named NHLStenden_SampleCode1 and 2. The first code topic is "Pure Python Image Processing Toolkit" and the second one is "Student Performance Analytics System".
